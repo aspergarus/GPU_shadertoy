@@ -1,7 +1,7 @@
 IDEA
 ====
 
-Create analogue of shadertoy(https://www.shadertoy.com/) based on GPU, not CPU(as I already did, check this out: https://github.com/aspergarus/CPU_shadertoy).
+Create analogue of shadertoy(https://www.shadertoy.com/) based on GPU, not [CPU based](https://github.com/aspergarus/CPU_shadertoy).
 For GL context was chosen SDL library.
 
 How to run
