@@ -12,6 +12,6 @@
 		"SDL2"
 	],
 	"license": "proprietary",
-	"name": "dlang_opengl_shadertoy",
+	"name": "gpu_shadertoy",
 	"versions": ["GL_41"]
 }
