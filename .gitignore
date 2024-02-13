@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dlang_opengl_shadertoy
+dlang_opengl_shadertoy.so
+dlang_opengl_shadertoy.dylib
+dlang_opengl_shadertoy.dll
+dlang_opengl_shadertoy.a
+dlang_opengl_shadertoy.lib
+dlang_opengl_shadertoy-test-*
+*.exe
+*.o
+*.obj
+*.lst

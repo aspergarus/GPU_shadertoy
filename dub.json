@@ -1,0 +1,17 @@
+{
+	"authors": [
+		"osmoliankin"
+	],
+	"copyright": "Copyright © 2024, osmoliankin",
+	"dependencies": {
+		"bindbc-opengl": "~>1.1.0",
+		"bindbc-sdl": "~master"
+	},
+	"description": "A minimal D application.",
+	"libs": [
+		"SDL2"
+	],
+	"license": "proprietary",
+	"name": "dlang_opengl_shadertoy",
+	"versions": ["GL_41"]
+}
